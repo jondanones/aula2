@@ -1,0 +1,12 @@
+C:\Users\Jow\source\repos\classe2\classe2\bin\Debug\netcoreapp3.1\classe2.exe
+C:\Users\Jow\source\repos\classe2\classe2\bin\Debug\netcoreapp3.1\classe2.deps.json
+C:\Users\Jow\source\repos\classe2\classe2\bin\Debug\netcoreapp3.1\classe2.runtimeconfig.json
+C:\Users\Jow\source\repos\classe2\classe2\bin\Debug\netcoreapp3.1\classe2.runtimeconfig.dev.json
+C:\Users\Jow\source\repos\classe2\classe2\bin\Debug\netcoreapp3.1\classe2.dll
+C:\Users\Jow\source\repos\classe2\classe2\bin\Debug\netcoreapp3.1\classe2.pdb
+C:\Users\Jow\source\repos\classe2\classe2\obj\Debug\netcoreapp3.1\classe2.AssemblyInfoInputs.cache
+C:\Users\Jow\source\repos\classe2\classe2\obj\Debug\netcoreapp3.1\classe2.AssemblyInfo.cs
+C:\Users\Jow\source\repos\classe2\classe2\obj\Debug\netcoreapp3.1\classe2.csproj.CoreCompileInputs.cache
+C:\Users\Jow\source\repos\classe2\classe2\obj\Debug\netcoreapp3.1\classe2.dll
+C:\Users\Jow\source\repos\classe2\classe2\obj\Debug\netcoreapp3.1\classe2.pdb
+C:\Users\Jow\source\repos\classe2\classe2\obj\Debug\netcoreapp3.1\classe2.genruntimeconfig.cache
